@@ -1,0 +1,753 @@
+PROCESSOS DE SIGNIFICAÇÃO MUSICAL  
+
+EM ALEGRIA NA HORTA DE VILLA-LOBOS 
+
+ 
+
+ 
+
+ 
+
+Resumo: Este artigo apresenta uma análise dos processos de significação musical que Heitor Villa-Lobos utilizou em “Alegria na Horta”, terceiro movimento da “Suíte Floral” Opus 97. Buscamos compreender as técnicas e recursos usados pelo compositor modernista na construção de conteúdos semânticos que propiciam a interpretação de um sentido narrativo para a peça. Para tanto, consideramos a existência de intertextualidades desta peça com composições para piano de Claude Debussy, as quais são geradas especialmente por similaridades de sonoridades, mas também por determinadas características formais. A análise partiu do levantamento e da análise das técnicas formais empregadas e, paralelamente, do estudo do contexto da criação da peça que contribuiu para o entendimento de alguns elementos da significação musical na peça. Esta análise tem como base, genericamente, teorias derivadas da semiótica de C.S. Peirce, ou mais especificamente, as teorias das tópicas musicais e dos gêneros expressivos nas quais consideramos Robert Hatten e Paulo de Tarso Salles como sendo as referências mais relevantes. 
+
+ 
+
+Palavras-chave: Análise para Interpretação. Semiótica. Significação Musical. Villa-Lobos. Alegria na Horta.  
+
+ 
+
+ 
+
+PROCESSES OF MUSICAL MEANING IN VILA-LOBOS’ ALEGRIA NA HORTA 
+
+ 
+
+Abstract: This paper presents an analysis of the processes of musical meaning that Heitor Villa-Lobos used in "Alegria na Horta", the third movement of the "Suíte Floral" Opus 97. We seek to understand the techniques and resources used by the modernist composer in the construction of semantic contents that allow the interpretation of a narrative sense for the piece. For this, we consider the existence of intertextualities of this piece with piano compositions by Claude Debussy, which are generated especially by similarities of sonorities but also by certain formal characteristics. The analysis started from the survey and analysis of the formal techniques employed and, in parallel, from the study of the context of the piece's creation that contributed to the understanding of some elements of the musical meaning in the piece. This analysis is based, generically, on theories derived from C.S. Peirce's semiotics, or more specifically, the theories of musical topics and expressive genres of which we consider Robert Hatten and Paulo de Tarso Salles as the most relevant references. 
+
+ 
+
+Keywords: Analysis for Interpretation. Semiotics Musical Meaning. Alegria na Horta. Villa-Lobos. 
+
+ 
+
+ 
+
+ 
+
+    – INTRODUÇÃO: A RECORRENTE QUESTÃO DA significação musical 
+
+ 
+
+As discussões sobre a existência de significações musicais têm uma longa história. Para não ir longe demais remontamos, como ponto de partida, ao texto O mestre de capela perfeito de Johann Mattheson, escrito em 1739. Nele já se encontra a associação entre música e linguagem, evidenciada por expressões como Klang Rede (discurso sonoro), e pelos clássicos postulados sobre a capacidade da música de mover afetos e excitar estados de espírito. Todavia essa propriedade ganha, nessa época, uma nova formulação, com a proposição da chamada “Doutrina dos Afetos”, que de fato se inicia em trabalhos anteriores a Mattheson, como Musica Poetica (1606) de Joachim Burmeister, e Syntagma musicum (1619) de Michael Pretorius. 
+
+Essa tradição prossegue em elaborações posteriores, como a “Doutrina da Mimese”, que contou com importantes adeptos, como os teóricos Scheibe e Rameau, e a “Doutrina dos Sentimentos”, desenvolvida a partir da “Doutrina dos Afetos” por Sulzer e Kirnberger. 
+
+Essas teorias, que precedem os estudos modernos sobre “Significação Musical”, integram o corpus doutrinário da chamada “Significação Afetiva”. A concepção de que a música deve representar afetos norteou o pensamento da estética musical até o século XVIII (OLIVEIRA, 2018), servindo de premissa para instrumentistas, teóricos e compositores. 
+
+De modo geral, podemos denominar os adeptos e não-adeptos da significação como expressionistas e absolutistas, respectivamente: 
+
+ 
+
+“A primeira [expressionista] acredita que a música tenha seu significado assentado sobre a possibilidade de o mundo sonoro remeter o ouvinte a um outro conteúdo que não o musical: ele se torna meio para atingir algo que está além dele. Expressar, descrever, simbolizar ou imitar essas referências extramusicais – relações cosmológicas ou numerológicas, fenômenos da natureza, conteúdos narrativos e afetivos, entre outras possibilidades – seriam a razão de ser de um discurso musical. [...] A corrente absolutista, ligada prioritariamente à música instrumental, concebe a música como linguagem autônoma em relação a quaisquer outros conteúdos, considerando-a autossuficiente na construção e no estabelecimento de relações puramente sonoras, intramusicais. Imitações, descrições e referências a outros conteúdos que não o sonoro são consideradas interferências a uma suposta “audição verdadeira” e diminuem o valor de uma obra.” (NASSIF, 2015, p. 107). 
+
+ 
+
+No século XIX, a defesa da chamada “música absoluta” busca conferir autonomia para a música instrumental, rompendo vínculos tanto com a teoria dos afetos quanto com as palavras, e orienta a discussão sobre a significação na música para novos rumos. De acordo com CAMARGO e SALLES (2017), o levantamento dessas questões só poderia ocorrer a partir do estabelecimento de gêneros exclusivamente instrumentais, como ocorreu no final do século XVII, porque a prevalência da associação musical com palavras e textos literários nos gêneros vocais trazia, indissociavelmente, uma vinculação a priori para as questões de significação musical. 
+
+No contexto da música absoluta da segunda metade do século XIX foi desenvolvida a escola do formalismo musical, marcada pela publicação de “Do belo musical” (1854) de Hanslick, em que ele se contrapõe à ideia de que a música teria a capacidade de representar ou excitar sentimentos. Para o autor, os sentimentos não são a finalidade ou tampouco o conteúdo da música enquanto obra de arte. Com isso, a compreensão da música deve partir da música em si, ou seja, ao que lhe é intrínseco. Segundo Hanslick: 
+
+ 
+
+“A música compõe-se de séries de sons, de formas sonoras; estas não têm outro conteúdo senão elas mesmas. [...] Cada um pode avaliar e designar o efeito de uma peça musical segundo sua individualidade, mas o conteúdo dela nada mais é do que as formas sonoras ouvidas, porque os sons não são apenas aquilo com que a música se expressa, mas também são a única coisa expressa” (HANSLICK, 1989, p. 155-156). 
+
+ 
+
+Esse tipo de pensamento formalista imperou durante boa parte do século XX, até que, já na segunda metade do século, foram recuperadas algumas discussões da vertente expressionista nos campos da psicologia e linguística. A partir desse momento, além das áreas da psicologia e da linguística, aparece em cena a Semiótica, em suas diversas correntes, como o referencial mais usado nos estudos de Significação Musical. 
+
+Modernamente, uma inovação foi a Teoria das Tópicas, cuja proposição inicial se atribui a Leonard Ratner no livro Classic music: expression, form and style (1980). Para Ratner, as tópicas são sujeitos ou figuras características que operam no discurso musical por meio da convencionalidade, ou seja, no nível simbólico da Semiótica de Peirce. O termo “tópica”, que vem do grego (topos), traz implícita a ideia de convenção, porque na Teoria da Retórica, de onde Ratner empresta o termo, a palavra designa os lugares comuns (MINGUET, 2016, p. 59). Ratner classifica as tópicas pelos seus tipos e estilos, além do pictorialismo ou word-painting: 
+
+ 
+
+“De seu contato com o culto religioso, poesia, drama, entretenimento, dança, cerimônia, forças militares, a caça e a vida das classes mais baixas, a música no início do século XVIII desenvolveu um dicionário de sinônimos de figuras características, que formou um rico legado para compositores clássicos. Algumas dessas figuras foram associadas a vários sentimentos e afetos; outras tinham um sabor pitoresco. Elas são designadas aqui como tópicas – sujeitos para o discurso musical. As tópicas aparecem como peças totalmente elaboradas, ou seja, tipos, ou como figuras e progressões dentro de uma peça, ou seja, estilos. A distinção entre tipos e estilos é flexível; minuetos e marchas representam tipos completos de composição, mas também fornecem estilos para outras peças” (RATNER, 1980, p. 9, tradução nossa)”. 
+
+ 
+
+As categorias de Ratner identifica Tipos que consistem basicamente de danças facilmente reconhecidas, como o minueto, a sarabanda, a giga, a gavota e a siciliana, e que eram caracterizadas por sua vinculação a certo status social. Para Ratner, “as danças, em virtude de seu ritmo e andamento, representavam sentimentos. Suas formas compactas e organizadas serviram como modelos para composição” (RATNER, 1980, p. 9, tradução nossa).  
+
+Por outro lado, os Estilos estavam ligados à sua função social da música, ou a algum contexto ao qual faziam referência. Constam nessa categoria as músicas feitas para casamentos, aniversários e feiras comerciais (pelos Stadtpfeiffer), a música de caça (presente no cotidiano da nobreza) e, ainda, a música de concerto de estilo brilhante, a abertura francesa, etc.  
+
+Já o Pictorialismo e o Word Painting envolvem uma representação ou imitação musical relacionada com modelos da literatura, pintura e outros gêneros de arte. “O pictorialismo, geralmente associado à música instrumental, transmite alguma ideia de uma ação ou cena. O word-painting é a combinação da palavra ou frase de um texto com uma figura musical” (RATNER, 1980, p. 25, tradução nossa). 
+
+A Teoria das Tópicas aos poucos ganhou adeptos nas novas gerações de teóricos que agregaram novas contribuições para desenvolver a teoria. Na primeira geração, além de Ratner são fundamentais as contribuições de Allanbrook (1983) e de Agawu (1991). Numa segunda etapa destacam-se especialmente as publicações de Hatten (1994) e de Monelle (2000).  
+
+Agawu, influenciado pelo estruturalismo e pela semiologia saussuriana, aborda a tópica como um signo que se divide em significante e significado. O significante são os elementos formais – como harmonia e ritmo – e o significado é o conteúdo conotativo e as convenções culturais envolvidas. Dessa forma, haveria dois níveis de semiose1: a introversiva e a extroversiva. Agawu também é responsável pela identificação das 61 tópicas mais recorrentes na música clássica.  
+
+A segunda geração, além de melhorar a compreensão do funcionamento das tópicas, considera também “a importância de outros gestos expressivos no processo de significação e no ato interpretativo” (DOS SANTOS, 2015, p. 70). Nesse contexto Monelle (2000) apresenta uma abordagem que considera a indicialidade do objeto como característica geral da significação tópica.  
+
+ 
+
+“A tópica é essencialmente um símbolo cujas propriedades indiciais e icônicas são governadas pela convencionalidade e pela regra. No entanto, as tópicas podem ser vistas por meio de uma característica que parece universal para elas: um foco na indicialidade do conteúdo, ao invés do próprio conteúdo” (MONELLE APUD OLIVEIRA, 2018, p. 32). 
+
+  
+
+Monelle estabelece uma divisão entre dois tipos de tópica: a tópica icônica e a tópica indicial. Na tópica icônica um dado musical estabelece uma relação de similaridade com o objeto, e na tópica indicial essa relação é de contiguidade. Essa classificação permite ao autor englobar o pictorialismo e o word-painting de Ratner como problemas também tópicos. Nesse ponto Monelle e Hatten divergem, pois Hatten não considera essas representações como tópica.  
+
+Hatten, recorre a conceitos formulados inicialmente pela linguística, para propor importantes contribuições que elaboram os modelos da correlação, da marcação e dos tropos. “Através dos conceitos de trope, expressive genre e topical field ele analisa como as tópicas interagem entre si e com outras unidades expressivas” (DOS SANTOS, 2015, p. 70). Dentre os conceitos propostos por Hatten, damos destaque ao gênero expressivo (expressive genre), assim definido pelo autor: 
+
+ 
+
+“(...) [são] gêneros cuja interpretação em determinados movimentos exigem uma competência expressiva em vez de uma estritamente estrutural. Os "enredos" que emergem desses gêneros podem às vezes sugerir uma estrutura mais dramática do que uma estritamente narrativa, mas sempre há um elemento narrativo implícito em que os eventos se desdobram por meio dos filtros narrativos da(s) persona(s) do compositor. Gêneros expressivos implicam em mudanças de estado (como no gênero trágico-triunfante da Quinta Sinfonia de Beethoven), ou uma dramatização da incapacidade de mudar de estado (como nos implacáveis finais trágicos das sonatas para piano Apassionata e Tempestade). Os gêneros expressivos costumam ser marcados por tópicas, como pastoral e heroica. Essas tópicas são definidas por certas oposições estruturais” (HATTEN, 1991, p. 76-77, tradução nossa). 
+
+ 
+
+No Brasil, em anos recentes, muitos trabalhos têm sido publicados abordando aplicações e adaptações dessas teorias à análise da música brasileira. Dentre eles, destacamos SALLES (2017) que faz uma adaptação da proposição de Hatten sobre gêneros expressivos aplicando-a a uma classificação de elementos de música brasileira em suas investigações da obra de Villa-Lobos. Como material complementar, o autor ressalta a concordância dessa classificação com outras análises de obras de Alberto Nepomuceno, Lorenzo Fernandes, Luciano Gallet, Camargo Guarnieri e Francisco Mignone. A proposição de Salles está apresentada no quadro abaixo. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+QUADRO – CLASSIFICAÇÃO DOS GÊNEROS EXPRESSIVOS NA MÚSICA BRASILEIRA 
+
+Gêneros Expressivos 
+
+Cerimonial 
+	
+
+Ritualístico 
+
+Sério 
+
+Grave 
+
+Saudoso 
+	
+
+Profundo 
+
+Melancólico 
+
+Elegíaco 
+
+Terno 
+
+Ingênuo 
+
+Lamento 
+
+Nostálgico 
+
+Rústico 
+	
+
+Rude 
+
+Cantos de trabalho 
+
+Selvagem 
+
+Carnavalesco 
+	
+
+Festivo 
+
+Grandioso 
+
+Picaresco 
+	
+
+Gingado 
+
+Brejeiro 
+
+Malandro 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fonte: SALLES (2017). 
+
+ 
+
+SALLES (2017) faz os seguintes apontamentos sobre sua proposta de classificação: 
+
+ 
+
+“Os gêneros expressivos cultivados por Villa-Lobos e demais participantes da primeira geração modernista no Brasil adotam a cultura popular como principal fonte de inspiração. Minha classificação propõe cinco gêneros: (1) o cerimonial, derivado das religiosidades ameríndia e afro-brasileira, associados com a tradição católica; (2) o saudoso, típico da sensibilidade luso-brasileira; (3) o rústico, que evoca a musicalidade das culturas das sociedades periféricas; (4) o carnavalesco que envolve as festividades laicas; e (5) o picaresco com que o brasileiro celebra o seu anti-heroísmo inato, celebrado na literatura pelo personagem do «Macunaíma» do romance de Mário de Andrade.” (SALLES, 2017, p. 74-75). 
+
+ 
+
+Nossa análise da significação em Alegria na Horta toma como ponto de partida o conceito de gêneros expressivos brasileiros sistematizados por SALLES (2017), e a teoria das tópicas, na tradição de Ratner, com especial atenção para as proposições de Hatten. 
+
+ 
+
+ 
+
+ 
+
+    - contexto da obra e relações intertextuais entre villa-lobos e a música impressionista 
+
+ 
+
+A Suíte Floral é uma suíte de três movimentos contrastantes, composta entre os anos 1916 e 1918. O primeiro movimento, Idílio na Rede, data de 1917, o segundo, Uma Camponesa Cantadeira, de 1916, e o terceiro, Alegria na Horta (Impressões de uma festa de hortelões), de 1918. O período de composição dessa suíte coincide com a primeira fase composicional de Villa-Lobos, conhecida pela influência de modelos franceses e wagnerianos, além de, em alguns casos, pelo caráter experimental. De maneira geral, o ouvinte nota imediatamente uma forte similaridade da sonoridade da peça com a de obras impressionistas.  
+
+Em todos os seus movimentos, é recorrente a evocação de um caráter bucólico, a retratação de um ambiente campestre e uma vida rural, o que justifica o título Suíte Floral. Contudo, ainda que sejam empregadas técnicas de composição que dialogam com a música europeia, Villa-Lobos aborda, mesmo que de maneira ainda singela, alguns elementos nativos. 
+
+Este aspecto pode ser observado, por exemplo, no título do primeiro movimento: Idílio na Rede. Como se sabe, a rede é um utensílio doméstico usual entre os povos indígenas originários, mas continua muito presente mesmo em áreas urbanas de diversas regiões do Brasil. O compositor representa musicalmente o movimento do balançar da rede por meio de um padrão rítmico imitativo, que somado à harmonia, faz lembrar um movimento pendular. Nota-se na figuração da semínima pontuada seguida de um grupo de quatro semicolcheias, mostrada na Figura 1, que as semicolcheias corroboram com a ideia de movimento. Este padrão se repete e se transforma ao decorrer da peça. 
+
+ 
+
+FIGURA 1: IDÍLIO NA REDE (COMPASSOS 1-8) 
+
+ 
+
+ 
+
+No segundo movimento da suíte, o compositor apresenta outra proposta, desta vez alheia à representação de elementos nativos. Trata-se da representação da figura de uma camponesa cantando. A melodia da camponesa, em estilo cantábile, é acompanhada por um ostinato rítmico em quiálteras nas seções A (compassos 1 a 14) e A’ (compassos 34 a 51). A polirritmia se estende praticamente por quase toda a peça, e a escala pentatônica é muito utilizada, o que torna este movimento o que mais assimila a sonoridade impressionista entre os três. 
+
+Embora a suíte ocasionalmente apareça em alguns programas de recital, a peça continua quase desconhecida se comparada com outras obras muito mais tocadas do compositor. Parte disso se deve à transformação do compositor em símbolo nacionalista – fenômeno que irá refletir até mesmo na utilização de sua música no cinema, sobretudo no cinema novo2.  
+
+O século XX, sobretudo nas primeiras décadas, foi marcado pela busca de uma linguagem artística nacional, intento expresso aliás na Semana de Arte Moderna de 1922, da qual Villa-Lobos participa. Nesse sentido, a valorização da cultura brasileira pela ideologia nacionalista guiaria não só a composição de Villa-Lobos para outros caminhos, diferentes daquele seguido por ele nas duas primeiras décadas do século XX, como também transformaria os padrões estéticos apreciados pelo público e seguidos por outros artistas. 
+
+Sabemos que as obras de cunho nacionalista de Villa-Lobos, e também as que usam técnicas inovadoras, se mostraram mais atrativas para o público, pois reforçavam a narrativa de Villa-Lobos como um personagem defensor da pátria, músico nacionalista e negador de influências estrangeiras em suas composições. Ao mesmo tempo, a sonoridade da Suíte Floral já era, de certa forma, conhecida e não oferecia nada muito novo. Isso talvez justifique porque esta peça ocupe até hoje uma posição secundária no seu catálogo de obras. Mesmo em setores da academia que hoje estão empenhados em estudar as composições de Villa-Lobos sob outra perspectiva, esta obra continua pouco discutida. A história favoreceu a divulgação de suas obras de cunho nacionalista, ou aquelas que figuram como mais inovadoras.  
+
+Em um artigo de jornal, disponível no Museu Villa-Lobos, sobre um recital realizado em 1939, quando o compositor já estava em grande evidência, localizamos uma crítica da peça (vide Anexo A). O crítico atribui ao terceiro movimento, Alegria na Horta, o caráter de música estrangeira disfarçada, afirmando que “ouvimos ontem uma bela página russa, alemã ou francesa com o rótulo de Alegria na Horta”. 
+
+Dada a semelhança da suíte com a música europeia da época, especialmente com a música impressionista francesa, assumida por nós como uma hipótese que é corroborada pela recepção da época, nossa análise principia com a investigação de intertextualidades entre obras dessa corrente estética com Alegria na Horta, por meio da identificação de técnicas nela empregadas que são comuns àquelas utilizadas por Claude Debussy, certamente o principal representante do impressionismo musical francês. 
+
+Neste período da vida do compositor o Rio de Janeiro passava por um processo de polarização no campo da música entre a estética italiana versus a estética alemã wagneriana e a francesa de Saint Säens (GUÉRIOS, 2003). Outro dado relevante para a gênese da peça foi o casamento do compositor com a pianista Lucília Guimarães no ano de 1913. Na época Villa-Lobos não sabia tocar piano e Lucília se torna uma figura influente porque, além de ensiná-lo a tocar e revelar-lhe a técnica de escrita para o instrumento, é através da esposa que Villa-Lobos começa a frequentar novos grupos e círculos sociais de músicos, alguns deles alinhados a uma estética contemporânea. 
+
+Desses grupos, devemos destacar o de Veloso Guerra, que se reunia em torno de Oswaldo Guerra, Nininha Veloso Guerra e Godofredo Leão Veloso (1859–1926), que estudara piano em Paris. Esse grupo incluía compositores e pianistas interessados nas ideias advindas de Paris e na música impressionista de Debussy. Seu contato com o Manual de Composição de Vicent d’Indy, que contribuiu para sua formação autodidata, se deu por Godofredo Veloso. Ademais, na casa dos Veloso-Guerra circularam nomes como Darius Milhaud e Arthur Rubinstein, figuras que viriam a ser conhecidas por Villa-Lobos entre 1917 e 1918.  
+
+ 
+
+“Este grupo teve papel importantíssimo no início do século XX para a difusão da música moderna francesa no meio artístico carioca, promovendo concertos e atividades pedagógicas. Eles foram responsáveis pelas primeiras audições brasileiras de obras de Debussy, de Ravel e de Satie, não se limitando apenas ao impressionismo francês, também trazendo entre outras coisas, as obras de Stravinsky (LAGO, 2005, p. 59).  
+
+ 
+
+Villa-Lobos conhecia as atividades dos Veloso-Guerra e passou a fazer parte deste círculo a partir de 1918, com a partida de Milhaud. Há diversos pontos de tangência entre o compositor e o grupo – foi Leão-Veloso quem trouxe da Europa o Cours de Composition Musicale de Vicent D’Indy (1851-1931), tão importante na formação de Villa-Lobos por volta de 1914, e anos depois apresentaria Milhaud ao compositor brasileiro –, mas é difícil estabelecer qual foi o grau de influência do conhecimento adquirido naquele meio na obra de Villa-Lobos.” (DE ALBUQUERQUE e SALLES, 2012, p. 1). 
+
+ 
+
+Desde essa época Villa-Lobos passou a incorporar a influência da música francesa não só na Suíte Floral, mas também nas Danças Características Africanas (1915), Ibericarabe (1914) e mesmo em obras posteriores, como em A Prole do Bebê (1920).  
+
+Em se tratando da música para piano de Debussy, PASCOAL (1991) faz um excelente apanhado das técnicas de composição empregadas por ele nos dois volumes dos Prelúdios, que aliás resumem as características composicionais do compositor francês ao longo de sua carreira.  
+
+ 
+
+QUADRO 1: TÉCNICAS COMPOSICIONAIS NOS PRELÚDIOS DE DEBUSSY (fonte PASCOAL, 1991) 
+
+ 
+
+Libertação da Tonalidade  
+
+ 
+	
+
+Apesar da presença da armadura de clave nos moldes tradicionais da harmonia tonal, os prelúdios não seguem esse sistema. Ao invés disso, existem somente centros tonais, e os acordes são concebidos de forma independente. 
+
+Harmonia  
+
+ 
+	
+
+A estrutura harmônica em Debussy apresenta-se frequentemente como harmonia de timbres, em que:  
+
+a) as notas são distribuídas em regiões contrastantes;  
+
+b) na progressão dos baixos ocorrem intervalos de terça; 	 
+
+c) há transformação das estruturas dos acordes. De exemplo a autora cita as segundas e quartas acrescentadas aos acordes;  
+
+d) a formação do acorde é progressiva, nota por nota, de modo que o tempo é dilatado;  
+
+e) o timbre é valorizado na estrutura, assim, melodia e harmonia são desvinculadas;  
+
+f) Pedal e Ostinato podem ser classificados como bordões3 e apresentados enquanto:  
+
+- Som isolado;  
+
+- Dois sons (normalmente fundamental e quinta);  
+
+- Três sons (acordes de fundamental e quinta em regiões contrastantes);  
+
+- Mais de três sons (funcionando como base para uma linha melódica);  
+
+- “Faixa” sonora (um rápido movimento cromático).  
+
+Polifonia  
+	
+
+A polifonia se dá com timbres contrastantes em planos sonoros independentes.  
+
+Aspecto melódico  
+
+ 
+	
+
+É divido pela autora em linhas e ideias. As linhas melódicas são compostas por movimentos repetitivos, que oscilam e frequentemente possuem os mesmos intervalos. Já as ideias, que consistem no material melódico, podem surgir no decorrer da peça em fragmentos, superpostas, com um tratamento harmônico novo ou ainda ritmo reduzido, ou ampliado.  
+
+O piano  
+
+ 
+	
+
+Debussy valoriza ao máximo as ressonâncias do piano, de modo a explorar todos os timbres. Os pedais também são frequentemente tidos como recursos timbrísticos, de modo a servir de sustentação para os bordões e misturar os sons em “faixas sonoras”. Segundo Pascoal, o som característico de Debussy não possui um delineamento sonoro em que as alturas são articuladas individualmente. Ao invés disso, essas alturas se fundem em timbres resultantes.  
+
+ 
+
+Não é nosso assunto aqui, mas é central na técnica de Debussy o uso de diferentes escalas simétricas, como a pentatônica, a octatônica e a de tons inteiros, além dos modos gregos.  
+
+Embora Alegria na Horta seja uma peça tonal, são encontradas expansões da harmonia e independência entre acordes, sendo muitos desses escolhidos em favor do timbre. Em Debussy esse tipo de ocorrência, em que a harmonia se presta em primeiro lugar ao resultado timbrístico, é chamado por Pascoal de harmonia de timbres. Na peça de Villa-Lobos alguns procedimentos são semelhantes a essa ideia  
+
+Para traçar correlações entre as técnicas usadas em Alegria na Horta e a linguagem para piano de Claude Debussy fizemos uma comparação com alguns de seus trabalhos mais conhecidos, notadamente os Prelúdios volumes I e II, Estampes, Doze Estudos e L’isle Joyeuse.  
+
+ 
+
+2.1. Acordes com notas acrescentadas 
+
+O acréscimo de notas que não alteram a funcionalidade do acorde mas obscurecem as relações tonais e influenciam suas qualidades timbrísticas foi uma prática recorrente em Debussy. O mesmo recurso é utilizado por Villa-Lobos. Além do acréscimo de notas, ele insere também apojaturas que provocam uma alteração do resultado timbrístico e corroboram com a camuflagem da funcionalidade dos acordes. Comparemos, por exemplo, um trecho de Alegria na Horta mostrado na Figura 1 com duas ocorrências desse procedimento nos Prelúdios 5 e 9 do primeiro volume de Debussy, conforme Figuras 3 e 4. 
+
+ 
+
+FIGURA 2: ALEGRIA NA HORTA, COMPASSOS 9-10. 
+
+ 
+
+ 
+
+ 
+
+FIGURA 3: PRELÚDIO Nº 4 VOL. I (LES SONS ET LES PARFUMS TOURNENT DANS L’AIR DU SOIR), COMPASSOS 1-2. 
+
+ 
+
+ 
+
+FIGURA 4: PRELÚDIO Nº 5 VOL. I (LES COLLINES D’ANACAPRI), COMPASSOS 8-9. 
+
+ 
+
+ 
+
+ 
+
+2.2. Sobreposição de acordes/tonalidades distintos/as. 
+
+A sobreposição de diferentes acordes e tonalidade é outro recurso ligado à expansão das relações harmônicas. No caso de acordes distintos sobrepostos, o resultado é um policorde. Policordes são “[...] formações acordais compostas pela sobreposição de uma ou mais tríades ou tétrades sobre uma base simples ou composta [...]” (LIMA, 2006, p. 6). Nas Figuras 5 e 6 vemos o uso desse recurso em ambos os compositores. 
+
+ 
+
+FIGURA 5: ALEGRIA NA HORTA, COMPASSOS 80-83. 
+
+ 
+
+ 
+
+ 
+
+FIGURA 6: DOZE ESTUDOS – ESTUDO Nº 1, COMPASSOS 11-14. 
+
+ 
+
+ 
+
+ 
+
+2.3. Ausência da terça no acorde 
+
+Os acordes sem terça são conhecidos como acordes suspensos, caracterizados pela impossibilidade de sua determinação enquanto acordes maiores ou menores. Nos dois compositores há ocorrências de sua utilização, como vemos no trecho de Alegria na Horta da Figura 7 e no fragmento de Pagodes de Debussy mostrado na Figura 8. 
+
+ 
+
+FIGURA 7: ALEGRIA NA HORTA, COMPASSO 35. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FIGURA 8: ESTAMPES – PAGODES, COMPASSOS 1-2. 
+
+ 
+
+ 
+
+ 
+
+2.4. Ornamentação como recurso de mistura de sons 
+
+A exploração da ornamentação escrita foi uma técnica comum na obra pianística de Debussy e faz parte da sua preocupação com a timbrística e com a mistura de sons, assim como a exploração das ressonâncias do piano, pela forma como é aplicada a pedalização. Mas a ornamentação é um recurso relacionado com a escrita, mas que também produz um tipo de ressonância que não é diretamente dependente do funcionamento mecânico do instrumento. Essa técnica de mistura de sons por meio da ornamentação pode ser observada nos excertos de Alegria na Horta (Figura 9) e do Prelúdio 1 Vol.2 de Debussy (Figura 10). 
+
+ 
+
+ 
+
+FIGURA 9: ALEGRIA NA HORTA, COMPASSOS 36-39. 
+
+ 
+
+ 
+
+ 
+
+FIGURA 10: PRELÚDIO Nº 1 VOL. II (BROUILLARDS), COMPASSOS 1-3. 
+
+ 
+
+ 
+
+ 
+
+2.5. Blocos de Acordes  
+
+Os blocos de acordes foram um dos recursos composicionais mais presentes nas obras de Debussy e são assim definidos por Pascoal (s/d, p.5): 
+
+ 
+
+“O uso de acordes de Debussy integra todos os elementos que formam a textura em uma estrutura que inclui desde as terças e quintas até as décimas terceiras em movimentos paralelos. Este tratamento ficou conhecido como blocos de acordes e é uma das bases da harmonia do jazz.” (PASCOAL, s/d, p. 5, tradução nossa). 
+
+ 
+
+Os blocos de acorde são empregados pelos dois compositores, conforme demonstram os excertos de Alegria na Horta (Figura 10) e os Prelúdios nº 1 do Livro 2 e nº 10 do Livro 1, (conforme Figuras 12 e 13 respectivamente). 
+
+ 
+
+FIGURA 11: ALEGRIA NA HORTA, COMPASSOS 86- 95. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FIGURA 12: PRELÚDIO Nº 1 VOL. II (BROUILLARDS), COMPASSOS 2-3. 
+
+ 
+
+ 
+
+ 
+
+FIGURA 13: PRELÚDIO Nº10 VOL. II (LA CATHÉDRALE ENGLOUTIE), COMPASSOS 28-36. 
+
+ 
+
+ 
+
+2.6. Ostinato  
+
+Outro recurso comum aos dois compositores é o ostinato, utilizado em trechos de obras, seções ou mesmo ao longo de quase uma peça inteira. Em Alegria na Horta essa técnica é pouco explorada, mas bastante no segundo movimento da Suíte Floral. Nas Figuras 14 e 15 encontram-se trechos da peça com ostinato na peça de Villa-Lobos, e nas Figuras 16 e 17 exemplos de igual ocorrência em obras de Debussy. 
+
+ 
+
+FIGURA 14: ALEGRIA NA HORTA, COMPASSOS 48-49. 
+
+ 
+
+ 
+
+ 
+
+FIGURA 15: ALEGRIA NA HORTA, COMPASSOS 25-29. 
+
+ 
+
+ 
+
+ 
+
+FIGURA 16: PRELÚDIO Nº 3 VOL. II (LA PUERTA DEL VINO), COMPASSOS 5-13  
+
+ 
+
+ 
+
+FIGURA 17: L'ISLE JOYEUSE, COMPASSOS 67-79. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.7. Nota Pedal  
+
+A nota pedal é bastante empregada ao longo de toda a Alegria na Horta, sobretudo nas seções A (compassos 1 a 24, conforme a partitura no Anexo B), C (compassos 48 a 85) e A’ (compassos 86 a 107). Em decorrência de seu uso percebe-se um aumento da ressonância, resultado também da mistura de sons que se dá enquanto acima daquela nota pedal ocorrem trocas de acordes. É interessante notar que as notas pedais nessa peça incorrem majoritariamente em paralelismos, seja de quintas ou de oitavas. Ambas as características, o paralelismo e o aproveitamento da nota pedal sobretudo como recurso timbrístico, são recorrentes em Debussy. Nas Figuras 18 e 19 apresentamos excertos do uso desse recurso na peça de Villa-Lobos, e nas Figuras 20 e 21 da utilização da nota pedal em Debussy. 
+
+ 
+
+FIGURA 18: ALEGRIA NA HORTA, COMPASSOS 6-10. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FIGURA 19: ALEGRIA NA HORTA, COMPASSOS 16-20 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FIGURA 20: PPRELUDIO Nº 3 VOL. I (LE VENT DANS LA PLAINE), COMPASSOS 9-12. 
+
+ 
+
+ 
+
+ 
+
+FIGURA 21: PRELÚDIO Nº 10 VOL. I (LA CATHÉDRALE ENGLOUTIE), COMPASSOS 1-7. 
+
+ 
+
+ 
+
+ 
+
+    - significação em alegria na horta 
+
+ 
+
+As relações de intertextualidade que apresentamos na seção anterior devem ser entendidas como um tipo particular de significação musical extrínseca, ainda que deduzida a partir de elementos técnicos e formais, uma vez que podemos categorizá-las como relações de similaridade icônica peirceana.    
+
+Mas há outro tipo de significação musical em Alegria na Horta que decorre da aplicação da Teoria das Tópicas e dos Gêneros Expressivos de Hatten, conforme a classificação de Salles. 
+
+No que diz respeito a teoria das tópicas, atualmente pesquisadores de diferentes vertentes tem se dedicado em trazer a teoria aos estudos da música brasileira, encontrando e estabelecendo tópicas no repertório nacional. Dentre eles constam os trabalhos de Acácio Piedade, Diósnio Machado Neto, Gabriel Moreira, Juliana Ripke, Norton Dudeque, Rodolfo Coelho de Souza, dentre outros. Baseados nesses estudos referenciais localizamos o uso de algumas tópicas dentro do terceiro movimento da Suíte Floral. 
+
+Uma das tópicas presentes em Alegria na Horta, já abordada previamente em análise de outras peças por MOREIRA (2013) como uma tópica de “simplicidade técnica”, pode ser observada do ponto de vista estrutural através da utilização do paralelismo. MOREIRA (2013) destaca que tal técnica composicional, dentro de uma cultura da música clássica que estimava o tratamento, desenvolvimento polifônico e independência das vozes, representava uma simplificação extrema. O autor relaciona o trabalho de Schoenberg com essa questão, ou mais especificamente com seus postulados acerca da independência de vozes e uso de movimentos oblíquos e contrários como meios para uma construção mínima de polifonia. Para Schöenberg, a independência das linhas melódicas manifesta o grau de evolução e complexidade da obra. Assim, a simplificação serviria ao propósito de indicar algum tipo de “primitivismo” (um conceito expurgado pela antropologia atual mas em uso na época de Villa-Lobos), pois, quando inserida no repertório de cunho indianista, remete ao imaginário ocidental sobre a figura do índio, como assim descrito:  
+
+ 
+
+“[...] parece evocar uma simplicidade técnica humana ‘ativa’, um dos itens importantes do imaginário ocidental acerca do índio: a rusticidade dos seus meios técnicos e dos resultados da sua construção artística. Assim como as machadinhas de pedra polida e vasos de barro, que para os europeus são souvenires da cultura indígena - que transmitem a ideia de simplicidade técnica que se vê objetivamente na falta de complexidade dos materiais resultantes – são as músicas ‘simples’ desses povos. Justamente através dessa simplicidade exótica é que se constrói a aura que reveste de valor tais produções artísticas, e Villa-Lobos parece se apoderar com sucesso desse elemento simbólico em sua composição de temática indígena. ” (MOREIRA, 2013, p. 30).  
+
+ 
+
+Da mesma forma que a simplicidade técnica, no contexto apontado por Moreira, conota rusticidade, quase um primitivismo, no contexto de Alegria na Horta, ocorre algo semelhate, embora com certa distinção, uma vez que a rusticidade apresentada na suíte aponta para a simplicidade da vida no campo e para os hortelões aos quais se refere Villa-Lobos no subtítulo da peça, e não a um modo de vida tido como primitivo no imaginário coletivo da época. A ideia dessa rusticidade atrelada ao imaginário de uma vida rural parece assimilar-se com ideais contidos em alguns axiomas conhecidos dos poetas árcades: Fugere urbem, Locus amoenus e Aurea mediocritas. Ou seja, ambas expressões que já expressavam a visão estereotipada do campo como um lugar ameno, equilibrado, agradável, simples, singelo, longe de muitas complexidades da vida.  
+
+Outro recurso utilizado por Villa-Lobos é a repetição. Trata-se, convencionalmente, de um artifício retórico e não estrutural, já que, em geral, tem uma função de reforço auditivo, mas que, quando executado inúmeras vezes, pode ser descaracterizada. Devido a essa concepção, por muito tempo a repetição excessiva foi evitada e a variação valorizada para que não se incorresse em passagens musicais monótonas.  
+
+Uma das formas de manifestação da repetição é o ostinato, usado extensivamente na Suíte Floral. Segundo MOREIRA (2013), esse dileto elemento musical da época relacionava-se ao bárbaro, ao exótico e ao não-civilizado, e isso se dava sobretudo pela questão de sua função. Se para Schöenberg o repertório canônico da música clássica, enfatiza a importância do desenvolvimento motívico, a variação progressiva e os meios para não se incorrer em monotonias, em contrate com essa convencionalidade estabelecida, Moreira aponta que Villa-Lobos explora a repetição para a construção de uma referência ao indígena em sua música.  
+
+ 
+
+“Percebemos aqui, que o uso intencional dos ostinatos como recurso expressivo da musicalidade indígena por Villa-Lobos tem o poder de evocar o conceito de ‘estaticidade’ e ‘repetição’, que se aparenta ao entendimento europeu com relação ao modo de vida das culturas selvagens; as ideias de que os índios são assim desde o início dos tempos (sem história) e que sua música é repetitiva, estática e visceral e é expressa musicalmente através dessa estereotipia. Villa-Lobos, ao mesmo tempo em que subverte a noção de ‘historicidade’ do sujeito melódico e harmônico da música de concerto europeia, logra êxito em representar musicalmente a alteridade do índio através do uso do ostinato.”. (MOREIRA, 2013, p. 32).  
+
+ 
+
+Da mesma forma, para SANTOS (2016) o ostinato, nas obras de temática indígena, remete ao imaginário ocidental acerca da figura do índio, sobretudo no que diz respeito ao “primitivismo”. 
+
+ 
+
+“[...] o ostinato, per si, evoca conceitos abstratos que se tem acerca das populações ‘primitivas’ como a simplicidade técnica, a repetição ritual, e a construção da música não pelo interesse melódico e harmônico, mas pela experiência da dilatação do tempo em sua contrapartida, sua redução a ciclos curtos com pouca ou nenhuma alteração em curto prazo. ” (SANTOS, 2015, p. 204).  
+
+ 
+
+É possível observar que, dentro do contexto indicado, tanto o ostinato quanto o paralelismo são conotativos de uma simplicidade técnica. Na obra de cunho indianista apontaria para a ideia do “primitivismo” indígena, presente em seus costumes, cultura e ritos. Mas em se tratando do terceiro movimento da Suíte Floral, a simplicidade técnica expressa no ostinato, assim como o sentido de estaticidade, diz respeito à simplicidade atribuída a vida no campo. Em outras palavras, Villa-Lobos apropria-se de recursos composicionais presentes na linguagem de outros compositores, como é o caso de Debussy, de modo que embora a sonoridade apresente fortes semelhanças, ele a molda de acordo com o resultado de significação almejado por ele.  
+
+Um forte indicativo do teor narrativo da peça é, obviamente, o próprio título aposto pelo compositor. Em cada um dos movimentos da Suíte Floral Villa-Lobos revela através da linguagem verbal a ideia referencial por trás do discurso musical. Existe aqui uma relação, ainda que parcial, com a conceptualização de Ratner a respeito do pictorialismo e word-painting. Ambos se referem à representação musical ligada a outros tipos de manifestação artística, como a poesia e literatura.  
+
+A questão do pictorialismo e word-painting é relacionada por Monelle em seus conceitos de tópicas indiciais e tópicas icônicas. “Monelle (2000) distingue “tópicas indiciais” de “tópicas icônicas”, sugerindo que estas últimas podem partir de pictorialismo e word-painting para constituírem símbolos musicais, superando sua condição de simples ícones musicais e se tornando tópicas. ” (OLIVEIRA, 2018, p. 29-30).  
+
+Em Alegria na Horta há uma típica ocorrência do pictorialismo. Tanto no título da suíte (Suíte Floral) quanto no título e subtítulo do terceiro movimento (Alegria na Horta - Impressões de uma festa de hortelões) o compositor constrói um cenário e uma ação. Ao mesmo tempo em que ele traça uma correspondência entre o conteúdo musical da obra e um conteúdo extramusical, a recorrência à linguagem verbal para a explicação da música também afeta diretamente a percepção do ouvinte, o que pode ser considerado um caso de Transferência.4  Nesse caso, as relações entre o título, o conteúdo musical correspondente e o seu significado se dão predominantemente por relações icônicas/indiciais, muito embora também hajam relações simbólicas. Como foi apontado acima, a singeleza, a rusticidade e a simplicidade do campo são expressos por tópicas, que em última instância se configuram como relações simbólicas.  
+
+Destacamos aqui também alguns elementos expressivos concernentes a essa ocorrência de pictorialismo. Em primeiro lugar, a peça é concebida enquanto “impressões de uma festa de hortelões”. Nesse contexto, a expressão pode abarcar dois sentidos, um deles, mais implícito, fazendo referência ao Impressionismo, movimento em que a impressão e sugestão são fortes marcas características; e o outro remetendo ao real sentido da palavra “impressão”. Essas impressões – esse olhar subjetivo, de leitura pessoal da cena de uma festa que acontece entre hortelões, de um ambiente rural onde impera o sentimento de alegria e celebração – são a temática da peça.  
+
+Em relação aos gêneros expressivos encontrados em Alegria na Horta, é possível notar na seção A (compassos 1 a 24) uma forte predominância de dois gêneros expressivos que ocorrem concomitantemente, o rústico e o carnavalesco. O primeiro é observado por meio da simplicidade técnica, expressa com os paralelismos, e com nota pedal e ostinato que transmitem uma certa estaticidade. Já o segundo, incorporando o caráter do primeiro, pode ser observado pelo colorido e graciosidade das apojaturas, somadas a uma articulação bastante precisa, assemelhando-se um pouco a uma dança, além da textura densa proporcionada pelo uso dos blocos de acordes, pela disposição em regiões contrastantes e pela concepção orquestral do piano, características que, juntas, manifestam a ideia de alegria e festividade. Somados, os dois gêneros expressivos apontam para o cenário da festa no campo retratado pelo compositor.  
+
+Na seção B (compassos 25 a 47), o caráter geral da peca passa a ter um teor mais burlesco e brincalhão, marcado pelo uso das quiálteras, pela articulação bastante precisa e pelos acentos que contrariam a acentuação métrica, tal qual a figura de um personagem embriagado causando confusão e, ao mesmo tempo, proporcionando episódios jocosos aos demais convidados de uma festa. Essas características junto ao uso de grandes floreios em quiálteras trazem ainda mais vivacidade e qualidades burlescas para a seção. Assim, pode-se dizer que do carnavalesco e rústico passa-se para uma predominância do picaresco.  
+
+A seção C (compassos 58 a 85) é um tanto contrastante em relação ao sentimento geral proposto até então. Nela a peça atinge uma característica ligeiramente melancólica, elegíaca e um pouco mais caliginosa – mais próximas do gênero expressivo saudoso – , expressando, ao mesmo tempo, bravura. Pode-se traçar novamente uma alusão a vida dos hortelões no campo, cuja rotina de trabalho costuma ser árdua. Mais uma vez há a presença do ostinato, que acompanha a melodia durante toda a seção. Esse trecho da música parece refletir sobre as dificuldades enfrentadas com denodo por aquele povo, e que naquele contexto são transfiguradas em festa e celebração. Tal aspecto só é superado ao final da cadência para a seção A’ (compasso 85), logo após o clímax da música, em que esse sentimento é convertido novamente em festividade. A escolha da tonalidade de dó menor na sequência de uma seção expressivamente contrastante também é significativa. 
+
+A seção A’ (compassos 86 a 107) traz de volta a ideia inicial, tendo poucas modificações e, portanto, não provocando grandes mudanças na significação em relação ao início da peça. A alteração em relação à seção A reside nos compassos 102 a 107, já no final da obra, em que uma cadência de textura cheia, com blocos de acordes e utilização de figuras musicais rápidas, nos guiam de maneira vibrante à conclusão da peça, que finaliza com um caráter de festividade e alegria em um acorde de dó maior.  
+
+ 
+
+    - COnsiderações finais 
+
+ 
+
+Para além da análise estrutural, mostramos como uma abordagem analítica concentrada em aspectos da Significação Musical pode ser uma ferramenta útil para a compreensão da produção musical de um compositor. Através dela pode-se investigar seus propósitos expressivos em determinada peça, como também elucidar relevantes questões de sua linguagem composicional. 
+
+Observamos no processo de composição de Alegria na Horta uma assimilação de técnicas da escola impressionista, uma das características da primeira fase composicional de Villa-Lobos. Essa influência está presente em toda a Suíte Floral, cuja harmonia remete inequivocamente ao universo da música impressionista. As relações intertextuais entre Villa-Lobos e o Impressionismo francês foram contempladas por meio do levantamento de técnicas comuns empregues em Alegria na Horta e em composições para piano de Claude Debussy, bem como através de comparações da utilização dessas técnicas com excertos musicais. 
+
+A análise da significação musical da peça procurou traçar correspondências entre o conteúdo musical e algumas tópicas e gêneros expressivos. Nossa análise da significação musical abarcou os conceitos de Tópicas (RATNER, 1980), Gêneros Expressivos (HATTEN, 1991) e Transferência (ZAMPRONHA, 2013). Assim, concluímos que, para construir a semântica e a narrativa de seu discurso musical, Villa-Lobos utilizou principalmente o recurso da convencionalidade, referenciando intertextualmente sonoridades características da escola impressionista, apropriando-se de conotações culturais, mas adequando-as à sua proposta narrativa. Ao mesmo tempo, ele se serve de outra convencionalidade, que é materializada musicalmente pelo significado verbal do título. Com ele, o compositor sugere as ideias gerais a serem encontradas na audição da peça pela interpretação do ouvinte. 
+
+Com isso reforçamos a importância da convencionalidade para a existência de uma significação musical. Ela exige o conhecimento e o reconhecimento de códigos e de um contexto apropriado, tanto por parte do compositor como do ouvinte, para que haja a transmissão efetiva de um significado musical. A percepção de passagens musicais como sendo dotadas de certos sentimentos universais – tais como tristeza e alegria –, ou trechos que fazem alusões extramusicais, seja a ações, imagens ou objetos, só são reconhecíveis auditivamente pelo processo de transmissão sígnica que se dá em decorrência do conhecimento de códigos inseridos em um contexto. 
+
+É importante notar que esse tipo de procedimento, ou seja, atribuição de significado para um dado acústico, é uma prática recorrente na obra de Villa-Lobos, já que em várias de suas composições ele demonstrou se importar com o aspecto narrativo do discurso musical, o que é reconhecível desde seus primeiros trabalhos, como pôde ser visto na Suíte Floral e no seu terceiro movimento Alegria na Horta. Logo, tal abordagem analítica demonstra sua utilidade para o estudo e compreensão de outras obras suas, tanto do ponto de vista performático-interpretativo quanto do musicológico. 
+
+ 
+
+ 
+
+REFERÊNCIAS 
+
+ 
+
+CAMARGO, Luciano; SALLES, Paulo de Tarso. Bakhtín e a Semiótica Musical Contemporânea. Revista Música, v. 17, n. 1, p. 277-291, 2017. 
+
+ 
+
+DE ALBUQUERQUE, Joel Miranda Bravo; SALLES, Paulo de Tarso. Villa-Lobos e a influência franco-russa: análise estrutural do início do Choros Nº4. 2012. Disponível em: https://www.academia.edu/2512018/Villa_Lobos_e_a_influ%C3%AAncia_franco_russa_an%C3%A1lise_estrutural_do_in%C3%ADcio_do_Choros_No4_2012_. Acesso em : 12 de mar. 2022.  
+
+ 
+
+DEBUSSY, Achille-Claude. Douze Études. Piano. Paris: Durand & Cie., 1916. 1 partitura. Disponível em: https://imslp.org/wiki/Special:ImagefromIndex/507725/oezt. Acesso em: 24 jun. 2021.  
+
+ 
+
+DEBUSSY, Achille-Claude. Estampes. Piano. Leipzig: Edition Peters, 1973. 1 partitura. Disponível em: https://imslp.org/wiki/Special:ImagefromIndex/57783/oezt. Acesso em: 24 jun. 2021.  
+
+ 
+
+DEBUSSY, Achille-Claude. L’Isle Joyeuse. Piano. Leipzig: Edition Peters, 1973. 1 partitura. Disponível em: https://imslp.org/wiki/Special:ImagefromIndex/57805/oezt. Acesso em: 24 jun. 2021.  
+
+ 
+
+DEBUSSY, Achille-Claude. Préludes: Livre 1. Piano. Leipzig: Edition Peters, 1969. 1 partitura. Disponível em: https://imslp.org/wiki/Special:ImagefromIndex/246411/oezt. Acesso em: 24 jun. 2021.  
+
+ 
+
+DEBUSSY, Achille-Claude. Préludes: Livre 2. Piano. Paris: Durand et Cie., 1913. 1 partitura. Disponível em: https://imslp.org/wiki/Special:ImagefromIndex/2468. Acesso em: 24 jun. 2021. 
+
+ 
+
+GUERRINI JR, Guerrini Júnior. A música no cinema brasileiro: os inovadores anos sessenta. Terceira Margem Editora, 2009.  
+
+ 
+
+GUÉRIOS, Paulo Renato. Heitor Villa-Lobos e o ambiente artístico parisiense: convertendo-se em um músico brasileiro. Mana, v. 9, n. 1, p. 81-108, 2003. 
+
+ 
+
+HANSLICK, Eduard. Do Belo Musical. Editora da Unicamp. 1989. 
+
+ 
+
+HATTEN, Robert. On narrativity in music: Expressive genres and levels of discourse in Beethoven. Indiana Theory Review, v. 12, p. 75-98, 1991. 
+
+ 
+
+LIMA, Adriano Fagundes Oliveira. Policordes: sistematização e uso na música popular. Tese (Mestrado) – Curso de Música, Universidade Estadual de Campinas. Campinas, 2006. Disponível em: https://www.academia.edu/10785048/Policordes_Sistematizacao_e_uso_na_Musica_Popular. Acesso em: 12 de mar. De 2022.  
+
+ 
+
+MINGUET, Vicent. Música y semántica: de la hermenéutica a la semiótica musical. Uma panorámica abierta al s. XXI. Artseduca, n. 15, p. 48-68, 2016. 
+
+ 
+
+NASSIF, Silvia Cordeiro. Algumas questões sobre a significação musical e suas implicações para o ensino da música. Revista Música Hodie, v. 15, n. 2, 2015. 
+
+ 
+
+OLIVEIRA, Juliano. A significação na música de cinema. São Paulo: Paco editorial, 2018. 
+
+ 
+
+PASCOAL, M. L. Debussy o compositor de sonoridades. Caderno de Estudos: Análise Musical, São Paulo, 4, pp. 1-13, 1991. 
+
+ 
+
+PASCOAL, Maria Lúcia. Villa-Lobos and Debussy: Comparisons in analytical aspects. Disponível em: https://www.academia.edu/36073610/Villa_Lobos_and_Debussy_comparisons_in_analytical_aspects. Acesso em: 12 de mar. 2022.  
+
+ 
+
+PEIRCE, Charles Sanders. Semiótica. São Paulo, Série Estudos. 1977. 
+
+ 
+
+RATNER, Leonard G. et al. Classic music: Expression, form, and style. New York: Schirmer Books; London: Collier Macmillan Publishers, 1980.  
+
+ 
+
+SALLES, Paulo de Tarso. Villa-Lobos e sua brasilidade: Uma abordagem a partir da teoria das marcações (markedness) de Hatten. Revista Portuguesa de Musicologia, v. 4, n. 1, p. 67-82, 2017. 
+
+ 
+
+SANTOS, DANIEL ZANELLA dos. Narratividade e Tópicas em Uirapuru (1917) de Heitor Villa-Lobos. Tese (Mestrado) – Curso de Música, Universidade de Santa Catarina. Florianópolis, 2015. Disponível em: https://www.academia.edu/14135228/Narratividade_e_T%C3%B3picas_em_Uirapuru_1917_de_Heitor_Villa_Lobos. Acesso em: 12 mar. 2022. 
+
+ 
+
+SANTOS, Daniel Zanella dos. Níveis de significação musical em Uirapuru de Heitor Villa-Lobos. Anais do SIMPOM, n. 4, 2016. 
+
+ 
+
+VILLA-LOBOS, Heitor. Suíte Floral. Piano. Rio de Janeiro: Arthur Napoleão, n.d.(ca.1920). 1 partitura. Disponível em: https://imslp.org/wiki/Special:ImagefromIndex/36256/oezt. Acesso em: 24 jun. 2021. 
+
+ 
+
+ZAMPRONHA, Edson. Transferência: o que é, e o que oferece à música? Revista Música Hodie, v. 13, n. 1, 2013. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANEXO A – CRÍTICA: RECITAL DE ALEXANDRE BRAILOWSKY 
+
+ 
+
+ 
+
+Fonte: Acervo Museu Villa-Lobos. 
+
+ 
+
+ANEXO B – PARTITURA DE ALEGRIA NA HORTA 
