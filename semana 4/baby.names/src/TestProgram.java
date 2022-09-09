@@ -11,7 +11,7 @@ public class TestProgram {
         FileResource fr = new FileResource();
         for (CSVRecord rec : fr.getCSVParser(false)) {
             int numBorn = Integer.parseInt(rec.get(2));
-            if (numBorn <= quantidade) {
+            if (numBorn >= quantidade) {
                 System.out.println("Name " + rec.get(0) +
                         " Gender " + rec.get(1) +
                         " Num Born " + rec.get(2));
@@ -41,7 +41,7 @@ public class TestProgram {
 
     public void testTotalBirths (int year) {
         //FileResource fr = new FileResource();
-        FileResource fr = new FileResource("csv_babynames/us_babynames_by_year/yob"+year+".csv");
+        FileResource fr = new FileResource("semana 4/exemplos/us_babynames_by_year/yob"+year+".csv");
         totalBirths(fr);
     }
 
@@ -50,7 +50,7 @@ public class TestProgram {
 //---------------------------------------------------------------------------------------------
     public int getRank(int year, String name, String gender) //transformado de void para int, para dar return para o método whatIsNameInYear
     {
-        FileResource fr = new FileResource("csv_babynames/us_babynames_by_year/yob"+year+".csv");
+        FileResource fr = new FileResource("semana 4/exemplos/us_babynames_by_year/yob"+year+".csv");
         int count = 0;
         String toString = fr.asString();
         int thereIs = toString.indexOf(name);
@@ -72,9 +72,10 @@ public class TestProgram {
         return 0;
     }
 
-    public String getName(int year, int rank, String gender) //transformado de void para int, para dar return para o método whatIsNameInYear
+    public String getName(int year, int rank, String gender)
     {
-        FileResource fr = new FileResource("csv_babynames/us_babynames_by_year/yob"+year+".csv");
+        //cálculo de quantidade máximo de Rank para nome de gênero M ou F
+        FileResource fr = new FileResource("semana 4/exemplos/us_babynames_by_year/yob"+year+".csv");
         int countCSV = 0;
         int count = 0;
         String actualGender = "";
@@ -85,10 +86,12 @@ public class TestProgram {
                 countCSV += 1;
             }
         }
+        //se o rank inserido for maior do que o máximo de ranks
         if (rank > countCSV)
         {
             System.out.println("Rank is off limits");
         }
+        //encontrar o nome de gênero M ou F que é igual ao Rank encontrado.
         for (CSVRecord rec : fr.getCSVParser(false)) {
             actualGender = rec.get(1);
             if (actualGender.equals(gender))
@@ -127,7 +130,8 @@ public class TestProgram {
 //  Exercício 3:-------------------------------------------------------------------------------
 //---------------------------------------------------------------------------------------------
 
-    public int getYearOfHighestRank(FileResource fr, int year, String name, String gender) //transformado de void para int, para dar return para o método whatIsNameInYear
+    //retorna o rank de um dado nome
+    public int getYearOfHighestRank(FileResource fr, int year, String name, String gender)
     {
         int count = 0;
         for (CSVRecord rec : fr.getCSVParser(false)) {
@@ -144,9 +148,8 @@ public class TestProgram {
         return 0;
     }
 
-    public int getLesserYear (String name, String gender)
+    public int getLesserYear (String name, String gender, DirectoryResource dr)
     {
-        DirectoryResource dr = new DirectoryResource();
         int lesserYearSoFar = 0;
         int finalResult = 0;
         int year = 0;
@@ -159,9 +162,8 @@ public class TestProgram {
         return lesserYearSoFar;
     }
 
-    public String getLesserYearFile (String name, String gender)
+    public String getLesserYearFile (String name, String gender, DirectoryResource dr)
     {
-        DirectoryResource dr = new DirectoryResource();
         int lesserYearSoFar = 0;
         int year = 0;
         int toCheck1 = 0;
@@ -182,6 +184,7 @@ public class TestProgram {
         return fileName;
     }
 
+    //retorna o rank mais alto entre dois ranks encontrados
     public int getLesserOfTwo(int currentResult, int lesserYearSoFar)
     {
         if (lesserYearSoFar == 0) {
@@ -197,9 +200,15 @@ public class TestProgram {
 
     public void testYearOfHighestRank (String name, String gender)
     {
-        int rank = getLesserYear(name, gender);
-        String fileName = getLesserYearFile(name, gender);
-        System.out.println("O file onde "+name+" possuí maior rank ("+rank+"º) é: "+fileName);
+        DirectoryResource dr = new DirectoryResource();
+        int rank = getLesserYear(name, gender, dr);             //retorna rank mais alto entre files selecionados.
+        String fileName = getLesserYearFile(name, gender, dr);  //retorna nome do file com rank mais alto.
+        if (rank == 0){
+            System.out.println("O nome " + name + " não aparece nos files selecionados");
+        }
+        else {
+            System.out.println("O file onde " + name + " possuí maior rank (" + rank + "º) é: " + fileName);
+        }
     }
 
 //---------------------------------------------------------------------------------------------
@@ -298,7 +307,7 @@ public class TestProgram {
         return totalBirths;
     }
 
-    public void testHigherRankedNames(int year, String name, String gender)
+    public void testHigherRankedNames(String name, String gender)
     {
         int total = getTotalBirthsRankedHigher(name, gender);
         System.out.println("O total de nascimentos acima ao rank de "+name+" são: "+total);

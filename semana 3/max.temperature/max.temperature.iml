@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="baby.names" level="project" />
+    <orderEntry type="library" name="checando.palavras" level="project" />
+    <orderEntry type="library" name="string.second.assignments" level="project" />
+    <orderEntry type="library" name="perimeter" level="project" />
+    <orderEntry type="library" name="string.third.assignments" level="project" />
+    <orderEntry type="library" name="max.temperature" level="project" />
+    <orderEntry type="library" name="min.temperature" level="project" />
+    <orderEntry type="library" name="string.first.assignments" level="project" />
+    <orderEntry type="module" module-name="Projeto final" />
+  </component>
+</module>

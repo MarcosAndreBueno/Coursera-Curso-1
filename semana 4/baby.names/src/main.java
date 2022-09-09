@@ -8,20 +8,20 @@ public class main {
         "   Este programa itera um arquivo csv com nome de recém nascidos nos EUA entre 1880 e 2014, trabalha os dados e devolve os resultados.\n" +
         "   As funções conseguem rankear os nomes que mais foram registrados para recém nascidos.\n" +
         "   Também consegue retornar o nome que estaria num rank específico, entre outras coisas\n" +
-        "   ATENÇÃO: Algumas funções pedem para inserir arquivos, que se encontram em csv_babynames");
+        "   ATENÇÃO: Algumas funções pedem para inserir arquivos, que se encontram em semana 4/exemplos");
 
         System.out.println("===============================================================================");
         System.out.println("Breve explicação das opções que o usuário pode escolher:\n" +
-        "___Opção1: printNames: print uma quantidade escolhida de nomes, separada por gênero e quantidade de repetições\n"+
+        "___Opção1: printNames: print uma quantidade escolhida de nomes, separada por gênero e quantidade de nascimentos maior/igual o número inserido\n"+
         "___Opção2: testTotalBirths: print o total de nascimentos em um ano escolhido\n" +
         "___Opção3: testRank: print do rank de um nome na lista\n" +
         "___Opção4: testName: print do nome em um dado rank e ano\n" +
-        "___Opção5: testWhatIsNameInYear: retorna rank de um nome em um dado ano, e com este rank busca " +
-                                          "qual seria o nome em um outro ano. \n" +
+        "___Opção5: testWhatIsNameInYear: pesquisa o rank de um nome em um dado ano e usa este rank " +
+                                          "para pesquisar em um file de outro ano. \n" +
         "___Opção6: testYearOfHighestRank: Faz o mesmo que a opção 3, porém pesquisa em vários documentos\n" +
-        "___Opção7: testAvarageRank: Faz o mesmo que a opção 4, porém pesquisa em vários documetos\n" +
-        "___Opção8: testHigherRankedNames: print da quantidade de recém nascidos em 1 ou " +
-                                           "vários anos com um determinado nome\n" +
+        "___Opção7: testAvarageRank: Faz o mesmo que a opção 4, porém pesquisa em vários documentos\n" +
+        "___Opção8: testHigherRankedNames: print da quantidade de recém nascidos com rank acima do" +
+                                           "nome inserido. Pesquisa em vários documentoos \n" +
         "       Agora é sua vez, escolha uma opção!             ");
         System.out.println("===============================================================================");
 

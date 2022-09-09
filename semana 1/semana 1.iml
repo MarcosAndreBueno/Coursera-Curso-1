@@ -7,6 +7,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="baby.names" level="project" />
+    <orderEntry type="library" name="checando.palavras" level="project" />
+    <orderEntry type="library" name="string.second.assignments" level="project" />
     <orderEntry type="library" name="perimeter" level="project" />
+    <orderEntry type="library" name="string.third.assignments" level="project" />
+    <orderEntry type="library" name="max.temperature" level="project" />
+    <orderEntry type="library" name="min.temperature" level="project" />
+    <orderEntry type="library" name="string.first.assignments" level="project" />
+    <orderEntry type="module" module-name="Projeto final" />
   </component>
 </module>

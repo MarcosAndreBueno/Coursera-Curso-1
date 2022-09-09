@@ -10,6 +10,7 @@ public class ExercicioQuatro {
             String nome = teclado.nextLine();
             System.out.print("Entre com o gênero que gostaria de pesquisar (M) ou (F): ");
             String genero = teclado.nextLine();
+            System.out.println("Selecione os arquivos que gostaria de pesquisar");
             iniciar.testAvarageRank(nome, genero);
         }
     }

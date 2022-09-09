@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Projeto final/Projeto final.iml" filepath="$PROJECT_DIR$/Projeto final/Projeto final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/coursera-curso-1.iml" filepath="$PROJECT_DIR$/.idea/coursera-curso-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semana 3/max.temperature/max.temperature.iml" filepath="$PROJECT_DIR$/semana 3/max.temperature/max.temperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semana 3/min.temperature/min.temperature.iml" filepath="$PROJECT_DIR$/semana 3/min.temperature/min.temperature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semana 1/semana 1.iml" filepath="$PROJECT_DIR$/semana 1/semana 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semana 4/semana 4.iml" filepath="$PROJECT_DIR$/semana 4/semana 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semana 2/string.first.assignments/string.first.assignments.iml" filepath="$PROJECT_DIR$/semana 2/string.first.assignments/string.first.assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semana 2/string.second.assignments/string.second.assignments.iml" filepath="$PROJECT_DIR$/semana 2/string.second.assignments/string.second.assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/semana 2/string.third.assignments/string.third.assignments.iml" filepath="$PROJECT_DIR$/semana 2/string.third.assignments/string.third.assignments.iml" />
+    </modules>
+  </component>
+</project>

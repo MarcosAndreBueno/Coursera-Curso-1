@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="min.temperature">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/semana3/min.temperature/apache-csv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/semana3/min.temperature/courserajava (1).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="baby.names">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/semana 4/baby.names/apache-csv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/semana 4/baby.names/courserajava (1).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

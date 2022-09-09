@@ -10,6 +10,7 @@ public class ExercicioTres {
             String nome = teclado.nextLine();
             System.out.print("Entre com o gênero que gostaria de pesquisar (M) ou (F): ");
             String genero = teclado.nextLine();
+            System.out.println("Selecione os arquivos que gostaria de pesquisar");
             iniciar.testYearOfHighestRank(nome, genero);
         }
     }

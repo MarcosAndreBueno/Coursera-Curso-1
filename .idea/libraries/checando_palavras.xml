@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="checando.palavras">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Projeto final/checando.palavras/apache-csv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Projeto final/checando.palavras/courserajava (1).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

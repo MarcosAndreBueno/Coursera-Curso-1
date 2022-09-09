@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="perimeter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/semana 1/perimeter/apache-csv.jar!/" />
+      <root url="jar://$PROJECT_DIR$/semana 1/perimeter/courserajava (1).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
